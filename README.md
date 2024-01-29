@@ -6,3 +6,4 @@
         <img width=390 height="153px" src="https://streak-stats.demolab.com/?user=BBroOW&theme=transparent" align="right"/>
     </a>
 </p>
+![](efd.gif)
