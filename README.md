@@ -5,5 +5,6 @@
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
         <img width=390 height="153px" src="https://streak-stats.demolab.com/?user=BBroOW&theme=transparent" align="right"/>
     </a>
+    ![](https://github.com/BBroOW/BBroOW/blob/main/efd.gif)
 </p>
-![](https://github.com/BBroOW/BBroOW/blob/main/efd.gif)
+
